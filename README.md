@@ -24,4 +24,4 @@ SQL → Python → Machine Learning (through SHAP) → C++ → Embedded Systems 
 
 ## Contact
 
-[LinkedIn]() · [Email](mukundan1012@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mukundan-d-836b52330/) · [Email](mailto:mukundan1012@gmail.com)
