@@ -31,5 +31,4 @@ followed by a VLSI Flow Track: RTL → Verification → Synthesis → Static Tim
 
 ## 📫 Contact
 
-LinkedIn: linkedin.com/in/mukundan-d-836b52330
-Email: mukundan1012@gmail.com
+[LinkedIn](https://www.linkedin.com/in/mukundan-d-836b52330/) · Email: mukundan1012@gmail.com
